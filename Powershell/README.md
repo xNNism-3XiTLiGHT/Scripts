@@ -1,11 +1,3 @@
-# Powershell scripts
-
-| script | description |
-|----------|--------|
-| drive-speedtest.ps1 | Test USB flash drives to measure read and write speed |
-
-#
-
 ### drive-speedtest.ps1
 
 Set Execution policy before: 
